@@ -1,0 +1,1 @@
+/sbin/c++ -Wl,--dependency-file=CMakeFiles/CacheSimAS.dir/link.d CMakeFiles/CacheSimAS.dir/main.cpp.o CMakeFiles/CacheSimAS.dir/Cache.cpp.o CMakeFiles/CacheSimAS.dir/CacheSimulator.cpp.o -o CacheSimAS

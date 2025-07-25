@@ -1,0 +1,3 @@
+/home/Lobke/CLionProjects/CacheSimAS/CMakeFiles/CacheSimAS.dir
+/home/Lobke/CLionProjects/CacheSimAS/CMakeFiles/edit_cache.dir
+/home/Lobke/CLionProjects/CacheSimAS/CMakeFiles/rebuild_cache.dir

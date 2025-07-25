@@ -1,0 +1,3 @@
+/home/Lobke/Downloads/CacheSimAS-master/build/CMakeFiles/CacheSimAS.dir
+/home/Lobke/Downloads/CacheSimAS-master/build/CMakeFiles/edit_cache.dir
+/home/Lobke/Downloads/CacheSimAS-master/build/CMakeFiles/rebuild_cache.dir

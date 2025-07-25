@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-#include "CacheSimulator.h"
+#include "include/CacheSimulator.h"
 
 int main() {
     Cache::Config cacheConfig{};
